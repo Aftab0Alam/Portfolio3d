@@ -1,3 +1,5 @@
+first create .env file in your server
+
 # ✅ Server Configuration
 PORT=5000                         # Port on which your backend server runs
 
